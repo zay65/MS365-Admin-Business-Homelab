@@ -1,13 +1,22 @@
 # MS365-Admin-Business-Homelab
-Repo highlighting my overall knowledge of administrating a MS365 Business tenant 
+Repo highlighting my overall knowledge/experience administrating a MS365 Business tenant 
 
 
-<div align="center"> User creation/deletion (single)/(bulk) with or without .csv  </div>
+<h3> User creation (single) & (bulk) with .csv template file  </h3>
 
+
+   <p align="center">
+    <img src="https://github.com/zay65/MS-365-User-Creation/blob/e8bd3813b700cfb78aaa91ca50c8d564731cf404/1%20user%20added.png" alt="Sample Image" width="-100%" height="-100%">
+  </p>
 
 <p align="center">
-    <img src="" alt="Sample Image"/>
+    <img src="https://github.com/zay65/MS-365-User-Creation/blob/e8bd3813b700cfb78aaa91ca50c8d564731cf404/MS%20365%20Bulk%20User%20creation%203.png" alt="Sample Image" width="-70%" height="-70%">
   </p>
+
+   <p align="center">
+    <img src="https://github.com/zay65/MS-365-User-Creation/blob/e4eeebe69c0639af09392436eb996af852fc1d43/20%20users%20added.png" alt="Sample Image" width="-70%" height="-70%">
+  </p>
+
 
   <div align="center"> Multifactor Authentication  </div>
 
