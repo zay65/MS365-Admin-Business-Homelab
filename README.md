@@ -1,5 +1,5 @@
-# MS365-Admin-Business-Homelab
-Repo highlighting my overall knowledge/experience administrating a MS365 Business tenant 
+# MS 365-Admin-Business-Homelab
+Repo highlighting my overall knowledge/experience administrating a MS 365 Business tenant 
 
 
 <h3> User creation (single) & (bulk) with .csv template file  </h3>
