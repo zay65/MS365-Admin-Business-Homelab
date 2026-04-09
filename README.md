@@ -1,4 +1,4 @@
-# MS 365-Admin-Business-Homelab
+# MS-365-Admin-Business-Homelab
 Repo highlighting my overall knowledge/experience administrating a MS 365 Business tenant 
 
 
