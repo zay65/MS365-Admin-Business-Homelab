@@ -18,23 +18,28 @@ Repo highlighting my overall knowledge/experience administrating a MS365 Busines
   </p>
 
 
-  <div align="center"> Multifactor Authentication  </div>
+<h3> Enabled Multifactor Authentication   </h3>
+<h3></h3>
+
+
 
 
 <p align="center">
-    <img src="" alt="Sample Image"/>
+    <img src="https://github.com/zay65/MS-365-MFA-config/blob/392de71332bd6c0a43fe19d3bb0142beec04618a/MS%20365%20MFA%202.png" alt="Sample Image"/>
   </p>
- 
-<div align="center">  Admin password reset(s) for user(s)  </div>
 
+<p align="center">
+    <img src="https://github.com/zay65/MS-365-MFA-config/blob/3917b65330d43c8c446ff628a0d3a83415419e06/MS%20365%20MFA%203.png" alt="Sample Image" width="50%" height="50%">
+  </p>
+
+ <h3>Admin password reset(s) for user(s) </h3>
 
 <p align="center">
     <img src="https://github.com/zay65/Resolving-account-access-issues/blob/2c1851f2d3b4586641833f908f7cfe33e7ec8b00/MS%20Office%20365%20Admin%20Password%20reset%204.png" alt="Sample Image"/>
   </p>
 
 
-<div align="center"> Entra ID user enrollment & Self-Service Password Reset (SSPR) config  </div>
-
+<h3>Entra ID user enrollment & Self-Service Password Reset (SSPR) config</h3>
 
 <p align="center">
     <img src="https://github.com/zay65/Resolving-account-access-issues/blob/d2e3e1024f23cc924159301f684e50f69abe6e66/SSPR%20ENTRA%20ID%205.png" alt="Sample Image"/>
