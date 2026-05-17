@@ -1,5 +1,5 @@
 # MS-365-Admin-Business-Homelab
-Repo highlighting my overall knowledge/experience administrating a MS 365 Business tenant 
+Microsoft 365 Business administration project highlighting hands-on experience managing tenant settings, users, licensing, security, and cloud services. 
 
 
 <h3> User creation (single) & (bulk) with .csv template file  </h3>
